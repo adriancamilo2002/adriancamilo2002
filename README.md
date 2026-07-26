@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Camilo Cepeda
 
-<!--
-**adriancamilo2002/adriancamilo2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Datos   Dashboards Dinámicos | Machine Learning
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/adriancamilo2002)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://github.com/adriancamilo2002)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+
+- 📈 [Dashboard de Ventas](https://github.com/adriancamilo2002/DASHBOARD) - Visualización interactiva con Streamlit
+- 🤖 [Predicción de Ventas](https://github.com/adriancamilo2002/DASHBOARD/tree/main/ml-projects) - Modelo de Machine Learning
+
+## 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriancamilo2002&show_icons=true&theme=radical)
